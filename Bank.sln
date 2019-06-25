@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bank", "Bank\Bank.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankTests", "BankTests\BankTests.csproj", "{F00AFB62-2F3E-4156-BF81-0AA60E3D35FD}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "circleci", "circleci", "{B469375E-C5A7-494C-9B67-D7B319D16E2E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".circleci", ".circleci", "{B469375E-C5A7-494C-9B67-D7B319D16E2E}"
 	ProjectSection(SolutionItems) = preProject
 		config.yml = config.yml
 	EndProjectSection
